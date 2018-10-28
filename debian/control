@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: Clive.h
-Description: Clive font for DisplayCore
+Description: Clive
