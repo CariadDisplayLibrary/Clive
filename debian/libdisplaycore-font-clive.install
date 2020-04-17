@@ -1,2 +1,2 @@
-Clive.cpp libraries/DisplayCore/Clive
-Clive.h libraries/DisplayCore/Clive
+src libraries/DisplayCore/Clive
+library.properties libraries/DisplayCore/Clive
